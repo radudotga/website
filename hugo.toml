@@ -1,0 +1,41 @@
+baseURL = "https://radu.ga/"
+languageCode = "en-us"
+title = "RADUGA"
+theme = "smol"
+
+[params]
+    subtitle = "small cloud for friends"
+    dateFmt = "02.01.2006 15:04"
+
+[[menu.main]]
+    identifier = "tos"
+    name = "tos"
+    url = "/tos"
+    weight = 1 
+
+[[menu.main]]
+    identifier = "privacy"
+    name = "privacy"
+    url = "/privacy"
+    weight = 2
+
+[[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    url = "/post"
+    weight = 3 
+
+[[menu.footer]]
+    name = "mail"
+    url = "mailto:raduga@radu.ga"
+    weight = 1 
+
+[[menu.footer]]
+    name = "github"
+    url = "https://github.com/radudotga"
+    weight = 2 
+
+[[menu.footer]]
+    name = "x"
+    url = "https://x.com/radudotga"
+    weight = 3 

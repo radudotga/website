@@ -1,0 +1,113 @@
+:root {
+	--bgcolor: black;
+	--fontcolor: white;
+	--linkcolor: white;
+	--visitedcolor: white;
+	background-image: url('https://radu.ga/background.png');
+}
+
+html {
+	overflow-y: scroll
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: center center; 
+	background-attachment: fixed;
+	background-color: var(--bgcolor);
+}
+
+html::before {
+	content: "";
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: var(--bgcolor);
+	opacity: 0.8;
+	z-index: -1;
+}
+
+
+body {
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 0 10px;
+	font: 14px/1.5 monospace;
+	color: var(--fontcolor);
+}
+
+a:link {
+	color: var(--linkcolor)
+}
+
+a:visited {
+	color: var(--visitedcolor)
+}
+
+a:active {
+	color: var(--visitedcolor)
+}
+
+h1,
+h2,
+h3 {
+	line-height: 1.2
+}
+
+article {
+	padding: 24px 0
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+figcaption {
+	color: #888;
+	font: 12px/1.5 monospace;
+	text-align: center;
+}
+
+figure {
+	margin: auto
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: auto
+}
+
+aside {
+	padding-bottom: 48px;
+}
+
+pre {
+	margin: 0px;
+}
+
+li {
+	list-style-type:"– ";
+}
+
+ul {
+	list-style-position: inside;
+	padding-left: 0;
+}
+
+::-webkit-scrollbar {
+  width: 3.5px;
+  height: 3.5px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bgcolor);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--fontcolor);
+}
