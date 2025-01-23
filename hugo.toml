@@ -39,3 +39,8 @@ theme = "smol"
     name = "x"
     url = "https://x.com/radudotga"
     weight = 3 
+
+[[menu.footer]]
+    name = "telegram"
+    url = "https://t.me/radudotga"
+    weight = 4
