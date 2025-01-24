@@ -4,7 +4,7 @@ description: Important thing
 date: 2025-01-23T22:48:00+01:00
 ---
 
-# The "Don't sue me" disclaimer
+# The «Don't sue me» disclaimer
 This service is provided as-is with no warranty, express or implied. 
 RADUGA is under no legal obligation to provide you with service, or keep the service it provides consistent. 
 Don't fucking sue me over shit I don't have an obligation to provide, basically.

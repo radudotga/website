@@ -25,6 +25,24 @@ theme = "smol"
     url = "/post"
     weight = 3 
 
+[[menu.main]]
+    identifier = "pve"
+    name = "pve"
+    url = "https://pve.radu.ga"
+    weight = 4
+
+[[menu.main]]
+    identifier = "ocis"
+    name = "ocis"
+    url = "https://ocis.radu.ga"
+    weight = 5
+
+[[menu.main]]
+    identifier = "share"
+    name = "share"
+    url = "https://s.radu.ga"
+    weight = 6
+
 [[menu.footer]]
     name = "mail"
     url = "mailto:raduga@radu.ga"
