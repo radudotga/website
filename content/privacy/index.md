@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: Important thing
-date: 2025-01-23T22:48:00+01:00
+date: 2025-01-27T22:58:00+01:00
 ---
 
 # Data RADUGA collects
