@@ -4,7 +4,7 @@ title = "RADUGA"
 theme = "smol"
 
 [params]
-    subtitle = "small cloud for friends"
+    subtitle = "small cloud for friends (alpha)"
     dateFmt = "02.01.2006 15:04"
 
 [[menu.main]]
