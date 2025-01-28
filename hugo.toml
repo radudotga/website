@@ -45,7 +45,7 @@ theme = "smol"
 
 [[menu.main]]
     identifier = "whois"
-    name = "share"
+    name = "whois"
     url = "https://ip.radu.ga"
     weight = 7
 
