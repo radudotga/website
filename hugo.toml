@@ -43,6 +43,12 @@ theme = "smol"
     url = "https://s.radu.ga"
     weight = 6
 
+[[menu.main]]
+    identifier = "whois"
+    name = "share"
+    url = "https://ip.radu.ga"
+    weight = 7
+
 [[menu.footer]]
     name = "mail"
     url = "mailto:raduga@radu.ga"
