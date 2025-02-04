@@ -73,3 +73,8 @@ theme = "smol"
     name = "status"
     url = "https://my.okerr.com/status/raduga/general"
     weight = 5
+
+[[menu.footer]]
+    name = "canary"
+    url = "/canary.asc.txt"
+    weight = 6
