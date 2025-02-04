@@ -71,5 +71,5 @@ theme = "smol"
 
 [[menu.footer]]
     name = "status"
-    url = "https://my.okerr.com/status/n7x8eheuw2/raduga"
+    url = "https://my.okerr.com/status/raduga/general"
     weight = 5
