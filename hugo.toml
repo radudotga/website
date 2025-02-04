@@ -28,25 +28,25 @@ theme = "smol"
 [[menu.main]]
     identifier = "pve"
     name = "pve"
-    url = "//pve.radu.ga"
+    url = "https://pve.radu.ga"
     weight = 4
 
 [[menu.main]]
     identifier = "ocis"
     name = "ocis"
-    url = "//ocis.radu.ga"
+    url = "https://ocis.radu.ga"
     weight = 5
 
 [[menu.main]]
     identifier = "share"
     name = "share"
-    url = "//s.radu.ga"
+    url = "https://s.radu.ga"
     weight = 6
 
 [[menu.main]]
     identifier = "whois"
     name = "whois"
-    url = "//ip.radu.ga"
+    url = "https://ip.radu.ga"
     weight = 7
 
 [[menu.footer]]
@@ -56,20 +56,20 @@ theme = "smol"
 
 [[menu.footer]]
     name = "github"
-    url = "//github.com/radudotga"
+    url = "https://github.com/radudotga"
     weight = 2 
 
 [[menu.footer]]
     name = "x"
-    url = "//x.com/radudotga"
+    url = "https://x.com/radudotga"
     weight = 3 
 
 [[menu.footer]]
     name = "telegram"
-    url = "//t.me/radudotga"
+    url = "https://t.me/radudotga"
     weight = 4
 
 [[menu.footer]]
     name = "status"
-    url = "//my.okerr.com/status/n7x8eheuw2/raduga"
+    url = "https://my.okerr.com/status/n7x8eheuw2/raduga"
     weight = 5
