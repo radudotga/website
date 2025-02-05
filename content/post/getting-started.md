@@ -14,7 +14,7 @@ You can find NS records from your DNS hoster - I highly recommend [Hurricane Ele
 
 # Records
 Instead of adding A and AAAA records, I suggest adding CNAME records to the existing ones.
-- \<name\>.ip.radu.ga (IPv4 and IPv6 record)
+- \<name\>.ip.radu.ga (IPv4 and IPv6 records)
 - \<name\>.ipv4.radu.ga (IPv4 record)
 - \<name\>.ipv6.radu.ga (IPv6 record)
 - \<name\>.cdn.radu.ga (IPv6 record, proxified*)

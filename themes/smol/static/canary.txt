@@ -12,7 +12,7 @@ RADUGA is not under duress of any government or organization.
 
 WARRANT CANARY
 
-* From 2025.01.03, RADUGA has not received:
+* From 2025.01.29, RADUGA has not received:
 
   * A gag order preventing the disclosure of a broad order for user metadata
   * A gag order preventing the disclosure of a broad order for user data
@@ -44,9 +44,9 @@ long as they are true.
 ***
 
 The current datetime:
-2025.02.04 / 20:24:31 / CET
-The most recent monero block hash:
-69ef646ef2c50eb029c2b11214a8ebd4ad4a2b8a126fd6e14a4181d120e3f92b
+2025.02.05 / 12:38:07 / CET
+The most recent Monero block hash:
+6639feaf8651d8a2fefadfbf44ea4891460d9185b044e988efce081d9ed77cab
 
 Until further notice, THIS CANARY SHOULD BE UPDATED EVERY MONTH. Under no
 circumstances should we let this canary go month without an update unless a
