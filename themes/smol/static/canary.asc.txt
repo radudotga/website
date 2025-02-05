@@ -1,0 +1,78 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+LIBERTY CANARY
+
+RADUGA is in 100% control of all of its hardware, and the service is still
+operating normally.
+
+RADUGA will shut down before becoming complicit in crimes against its own
+userbase under duress of any government or organization.
+
+RADUGA is not under duress of any government or organization.
+
+***
+
+WARRANT CANARY
+
+* From 2025.01.29, RADUGA has not received:
+
+  * A gag order preventing the disclosure of a broad order for user metadata
+  * A gag order preventing the disclosure of a broad order for user data
+  * A gag order preventing the disclosure of a targeted order for user data
+  * A gag order preventing the disclosure of a targeted order for user metadata
+
+RADUGA has never received a legal order enforceable in its jurisdiction for
+user data.
+
+RADUGA has never received a legal order enforceable in its jurisdiction for
+any broad class of users.
+
+RADUGA has never received a gag order preventing disclosure of any broad
+order.
+
+* A gag order refers to any legal order enforceable in RADUGA jurisdiction
+preventing disclosure of:
+
+  * A request or order for user information
+  * A request or order for investigative assistance
+  * A request or order for technical assistance
+  * Any other request, order, demand, or information of any type
+
+Failure to update this canary does not mean RADUGA has received a gag order,
+nor is not updating it or omitting anything an attempt to communicate anything
+to anyone. This canary serves only to periodically confirm certain facts as
+long as they are true.
+
+***
+
+The current datetime:
+2025.02.05 / 12:38:07 / CET
+The most recent Monero block hash:
+6639feaf8651d8a2fefadfbf44ea4891460d9185b044e988efce081d9ed77cab
+
+Until further notice, THIS CANARY SHOULD BE UPDATED EVERY MONTH. Under no
+circumstances should we let this canary go month without an update unless a
+PGP-signed message changes the schedule.
+
+The schedule or PGP key used to sign this message may be changed only according
+to signed message from key 4121790007CEC380E2E5CE0386A5F8191783E6F1. Any
+message certifying the change of PGP key should be displayed alongside all
+messages signed with the new key for at least 14 days.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmejTtgACgkQhqX4GReD
+5vFEzA/+Kv1MglQ6ANN3Hl8gnayElcywQ02ZCCMDOOxw4+Wlht6P0H5kKMcTwZ1G
+11+xZDXykrbDqZ1LDWzz+M9giAGGvX656OCsmuGPlOnZKahDgrmj6BSy4lwTi/eA
+KvXbS/KyVQAtjXr7DBSqbZct3p2DfRty2x9tSph2CKpdxBmOLSZlmvkO/LPh7jsy
+azi+jxKQ1kiqpXVsMyTDXewvpwBdbz0TW0GNKMioiacvQI/Iu0Amd+O2ZoPSkx87
+F+4D2QtpA28PGW81C/jiWWa5eNE2pkvEhXfgVZ85XGseA4JnqrNkDgKp4hT7utEp
+f6IkOvFwgW/m8c/+5+mos9YfR3hCbNvl4YDHP5u5kXCfOonz1O+Q/MLc3SFVv5hG
+0k1rQEWLvUNkPCX2HQMTS0f+09DyPZsLIAEoFAPGRCpXywrmnoseGZsas3k3/D4u
+huAP2lr3mSjAZTgl7FuwiVEC4GnzcGiB9uoLDC/6vqpkmnGParrH2qURnHVX6xq8
+GdqZ0aINms4ertRXB8UKJ7+lan+aLHml5by15+hdxHOpIKQ/8O8f47RnXYw/BC4+
+u5cYlGfrC9K/XJnVuv90IVjbCqN095uiRqKOJ+sQb3i0Mmxo4rI3Szenfnst3LpQ
+uxEhQCIayP7FPlVPWyjsFElak34HMPqjNa4TXI1qvmQWXXsQZcM=
+=yQ8i
+-----END PGP SIGNATURE-----
