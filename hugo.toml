@@ -49,6 +49,12 @@ theme = "smol"
     url = "https://ip.radu.ga"
     weight = 7
 
+[[menu.main]]
+    identifier = "4get"
+    name = "4get"
+    url = "https://4get.radu.ga"
+    weight = 8
+
 [[menu.footer]]
     name = "mail"
     url = "mailto:raduga@radu.ga"
