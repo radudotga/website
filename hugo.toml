@@ -55,6 +55,12 @@ theme = "smol"
     url = "https://4get.radu.ga"
     weight = 8
 
+[[menu.main]]
+    identifier = "anek"
+    name = "anek"
+    url = "https://anek.radu.ga"
+    weight = 9
+
 [[menu.footer]]
     name = "mail"
     url = "mailto:raduga@radu.ga"
