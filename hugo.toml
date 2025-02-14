@@ -8,85 +8,85 @@ theme = "smol"
     dateFmt = "02.01.2006 15:04"
 
 [[menu.main]]
-    identifier = "tos"
-    name = "tos"
-    url = "/tos"
-    weight = 1 
-
-[[menu.main]]
-    identifier = "privacy"
-    name = "privacy"
-    url = "/privacy"
-    weight = 2
-
-[[menu.main]]
     identifier = "blog"
     name = "blog"
     url = "/post"
-    weight = 3 
+    weight = 1 
 
 [[menu.main]]
     identifier = "pve"
     name = "pve"
     url = "https://pve.radu.ga"
-    weight = 4
+    weight = 2
 
 [[menu.main]]
     identifier = "ocis"
     name = "ocis"
     url = "https://ocis.radu.ga"
-    weight = 5
+    weight = 3
 
 [[menu.main]]
     identifier = "share"
     name = "share"
     url = "https://s.radu.ga"
-    weight = 6
+    weight = 4
 
 [[menu.main]]
     identifier = "whois"
     name = "whois"
     url = "https://ip.radu.ga"
-    weight = 7
+    weight = 5
 
 [[menu.main]]
     identifier = "4get"
     name = "4get"
     url = "https://4get.radu.ga"
-    weight = 8
+    weight = 6
 
 [[menu.main]]
     identifier = "anek"
     name = "anek"
     url = "https://anek.radu.ga"
-    weight = 9
+    weight = 7
+
+[[menu.footer]]
+    identifier = "tos"
+    name = "tos"
+    url = "/tos"
+    weight = 1 
+
+[[menu.footer]]
+    identifier = "privacy"
+    name = "privacy"
+    url = "/privacy"
+    weight = 2
 
 [[menu.footer]]
     name = "mail"
     url = "mailto:raduga@radu.ga"
-    weight = 1 
+    weight = 3 
 
 [[menu.footer]]
-    name = "github"
+    name = "git"
     url = "https://github.com/radudotga"
-    weight = 2 
+    weight = 4
 
 [[menu.footer]]
     name = "x"
     url = "https://x.com/radudotga"
-    weight = 3 
+    weight = 5 
 
 [[menu.footer]]
-    name = "telegram"
+    name = "tg"
     url = "https://t.me/radudotga"
-    weight = 4
+    weight = 6
 
 [[menu.footer]]
     name = "status"
     url = "https://my.okerr.com/status/raduga/general"
-    weight = 5
+    weight = 7
 
 [[menu.footer]]
     name = "canary"
     url = "/canary.asc.txt"
-    weight = 6
+    weight = 8
