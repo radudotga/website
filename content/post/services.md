@@ -21,9 +21,6 @@ Stop, start, restart. Snapshots. Ordinary staff for managing your VPS.
 # Whois
 IP, ASN, domain lookups.
  
-# Share
-Publish files and pastes. Its temporary. Use OCIS for file storage.
-
 # NAT64 and DNS64
 Have IPv6 only infrastructure?
 I can help with reaching IPv4 network.
