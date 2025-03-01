@@ -26,28 +26,16 @@ theme = "smol"
     weight = 3
 
 [[menu.main]]
-    identifier = "share"
-    name = "share"
-    url = "https://s.radu.ga"
-    weight = 4
-
-[[menu.main]]
     identifier = "whois"
     name = "whois"
     url = "https://ip.radu.ga"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     identifier = "4get"
     name = "4get"
     url = "https://4get.radu.ga"
-    weight = 6
-
-[[menu.main]]
-    identifier = "anek"
-    name = "anek"
-    url = "https://anek.radu.ga"
-    weight = 7
+    weight = 5
 
 [[menu.footer]]
     identifier = "tos"

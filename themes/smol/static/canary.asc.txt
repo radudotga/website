@@ -47,9 +47,9 @@ long as they are true.
 ***
 
 The current datetime:
-2025.02.05 / 12:38:07 / CET
+2025.03.01 / 16:33:07 / CET
 The most recent Monero block hash:
-6639feaf8651d8a2fefadfbf44ea4891460d9185b044e988efce081d9ed77cab
+177bf5bdcce159a7b41777ec1d380a735030718ffb32709c48b33e30839c386b
 
 Until further notice, THIS CANARY SHOULD BE UPDATED EVERY MONTH. Under no
 circumstances should we let this canary go month without an update unless a
@@ -62,17 +62,17 @@ messages signed with the new key for at least 14 days.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmejTtgACgkQhqX4GReD
-5vFEzA/+Kv1MglQ6ANN3Hl8gnayElcywQ02ZCCMDOOxw4+Wlht6P0H5kKMcTwZ1G
-11+xZDXykrbDqZ1LDWzz+M9giAGGvX656OCsmuGPlOnZKahDgrmj6BSy4lwTi/eA
-KvXbS/KyVQAtjXr7DBSqbZct3p2DfRty2x9tSph2CKpdxBmOLSZlmvkO/LPh7jsy
-azi+jxKQ1kiqpXVsMyTDXewvpwBdbz0TW0GNKMioiacvQI/Iu0Amd+O2ZoPSkx87
-F+4D2QtpA28PGW81C/jiWWa5eNE2pkvEhXfgVZ85XGseA4JnqrNkDgKp4hT7utEp
-f6IkOvFwgW/m8c/+5+mos9YfR3hCbNvl4YDHP5u5kXCfOonz1O+Q/MLc3SFVv5hG
-0k1rQEWLvUNkPCX2HQMTS0f+09DyPZsLIAEoFAPGRCpXywrmnoseGZsas3k3/D4u
-huAP2lr3mSjAZTgl7FuwiVEC4GnzcGiB9uoLDC/6vqpkmnGParrH2qURnHVX6xq8
-GdqZ0aINms4ertRXB8UKJ7+lan+aLHml5by15+hdxHOpIKQ/8O8f47RnXYw/BC4+
-u5cYlGfrC9K/XJnVuv90IVjbCqN095uiRqKOJ+sQb3i0Mmxo4rI3Szenfnst3LpQ
-uxEhQCIayP7FPlVPWyjsFElak34HMPqjNa4TXI1qvmQWXXsQZcM=
-=yQ8i
+iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmfDKd4ACgkQhqX4GReD
+5vFzmg/8C7dki4E4l/+1Sv3c1CQecqLLTj9rLD8HYeXWvh8K4uxHDgJBW5d6+Ruu
+ZLZE1mO6JHAAE4gBe42kP1JniXHRcnYc9ECUhm8K/r3FURolijYGhD6+kf/wXBmk
+Pe+0iF5o7kGvRguilo3miIek/saAP6bb/8h42OeTEdqLi4LcuMxJpPyISwQYLjW8
+cKVYXvEC+6CD7wtZyTFfeWamyBxd3Ek3VFVSm/EMZlGwvlMrrn0XLDDSQrCofgPa
+OQEGoqWo4tx9y9OcripRt0b54a0X66BqHWH7n1ehgYxP6cJ+q3yNg1YIK+haV3MD
+bHzjUGcEuRChLWkAr1yLQer1DLtx+KOJol7Ij3bH3KcqC/gZJky3H5mS6MZgFHVQ
+R72cZ9suwJV3GcRcDQAK/cb2+QVTkOUkCfFmieMOkqNFpuT01CzVjjZAcK+ovHTl
+ve0OW4BVvV5denmh1K3lHs7jWLOU2uOQrUJZmypE+dX0PNokNjeMAxtLJ9oYyNmc
+7YNV05XuA/sZzd6FmExlgkNjs8bTB59TsaUP3rJ4s9H1Vroe7g3NNXCYILfhaqJI
+ZAn6Eu+HjkZnBT04hmEO5Q7+Mg0dTBqCLI0YNvkPqb3DjsHgBsecsZZPiXgMMcRw
+LoT10ZRuu5IQV4v4L6C2MuDJMo/saBy1/QgESnsrcXF+NZzJ1No=
+=j6hf
 -----END PGP SIGNATURE-----
