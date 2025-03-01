@@ -15,10 +15,6 @@ I add NS records and you manage it by yourself.
 # ProxmoxVE
 Stop, start, restart. Snapshots. Ordinary staff for managing your VPS.
 
-# OCIS
-50GB storage space in ownCloud Infinite Scale.
-Also provided with OnlyOffice Document Server.
-
 # Temp Mail
 5 domains, 20 mailboxes. 
 
