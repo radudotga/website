@@ -20,22 +20,16 @@ theme = "smol"
     weight = 2
 
 [[menu.main]]
-    identifier = "ocis"
-    name = "ocis"
-    url = "https://ocis.radu.ga"
-    weight = 3
-
-[[menu.main]]
     identifier = "whois"
     name = "whois"
     url = "https://ip.radu.ga"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     identifier = "4get"
     name = "4get"
     url = "https://4get.radu.ga"
-    weight = 5
+    weight = 4
 
 [[menu.footer]]
     identifier = "tos"
