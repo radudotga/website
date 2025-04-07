@@ -47,9 +47,9 @@ long as they are true.
 ***
 
 The current datetime:
-2025.03.01 / 16:33:07 / CET
+2025.04.07 / 13:49:15 / CET
 The most recent Monero block hash:
-177bf5bdcce159a7b41777ec1d380a735030718ffb32709c48b33e30839c386b
+211312cf87db050bb3c5de6caa6e2e17ff427e8da9716fccf26ea4a9f4451ccf
 
 Until further notice, THIS CANARY SHOULD BE UPDATED EVERY MONTH. Under no
 circumstances should we let this canary go month without an update unless a
@@ -62,17 +62,17 @@ messages signed with the new key for at least 14 days.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmfDKd4ACgkQhqX4GReD
-5vFzmg/8C7dki4E4l/+1Sv3c1CQecqLLTj9rLD8HYeXWvh8K4uxHDgJBW5d6+Ruu
-ZLZE1mO6JHAAE4gBe42kP1JniXHRcnYc9ECUhm8K/r3FURolijYGhD6+kf/wXBmk
-Pe+0iF5o7kGvRguilo3miIek/saAP6bb/8h42OeTEdqLi4LcuMxJpPyISwQYLjW8
-cKVYXvEC+6CD7wtZyTFfeWamyBxd3Ek3VFVSm/EMZlGwvlMrrn0XLDDSQrCofgPa
-OQEGoqWo4tx9y9OcripRt0b54a0X66BqHWH7n1ehgYxP6cJ+q3yNg1YIK+haV3MD
-bHzjUGcEuRChLWkAr1yLQer1DLtx+KOJol7Ij3bH3KcqC/gZJky3H5mS6MZgFHVQ
-R72cZ9suwJV3GcRcDQAK/cb2+QVTkOUkCfFmieMOkqNFpuT01CzVjjZAcK+ovHTl
-ve0OW4BVvV5denmh1K3lHs7jWLOU2uOQrUJZmypE+dX0PNokNjeMAxtLJ9oYyNmc
-7YNV05XuA/sZzd6FmExlgkNjs8bTB59TsaUP3rJ4s9H1Vroe7g3NNXCYILfhaqJI
-ZAn6Eu+HjkZnBT04hmEO5Q7+Mg0dTBqCLI0YNvkPqb3DjsHgBsecsZZPiXgMMcRw
-LoT10ZRuu5IQV4v4L6C2MuDJMo/saBy1/QgESnsrcXF+NZzJ1No=
-=j6hf
+iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmfzu/8ACgkQhqX4GReD
+5vE+qRAAjzCsJG1Krwhdcwf7AU6bDYvNIDBo3kCVRME6NEcoZ7gYMCvuvZs1UV7A
+vOrb6F6djQl+/DFJ7V2+Mh3QyL5UtVRfI575fz7hvFTvaFupm3vPbqbCUm0zctaf
+MmA8Ssd2VpyTQXEIOiQ4S4z5ldngVPCd8BBwi+LuOFPMaHsSMiDTICFpboQyN9OP
+iWBllgXiKOWBy2ewCH0kA1EpbPAy/0v5fDFxdjZHWK6hh6pJMl0fD5s31yuJqfCE
+xEA1SeE7YPuftuzXylMFyTeZRBloNK7Im8tmFa1qmm+7lFoOHMDm1YUBrllJA2qP
+jzoy10Ui4VzajfpnKWFUGT+A/8jtimxS7ytPTNvQMeKaJs3O7FEQP9qDkIX0sfjE
+Eeu1scwVfO5kyeLWVH5Qg2q151m2e4HWDax1rPwIuoZaXkF6t26Eimq+4sqeqkJI
+OanHWs4FNTRfsB85dMCzjvGg4o7z1NBa8E/Ih8EcebTra3/CjpVVUSnm2gmAPMe4
+tGn6Rx2amnCGF3n28B2vShJCeNjWZLYi5nDD2Xpan+a2OhSuteRYsHDXgyfRxiaV
+2OHxJF0dKvM8OlN/H4z2tIAAfSF9tGjpe0K4dFKfwCU3rOiaLMzEWeFMNINB1Af5
+/dmR5UaAmWnKQQ8U6BvddLEs2HFrS6HWjRxxWMQWffqeZSXydb8=
+=UBOE
 -----END PGP SIGNATURE-----
