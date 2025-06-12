@@ -47,11 +47,11 @@ long as they are true.
 ***
 
 The current datetime:
-2025.04.07 / 13:49:15 / CET
+2025.06.12 / 22:19:27 / CET
 The most recent Monero block hash:
-211312cf87db050bb3c5de6caa6e2e17ff427e8da9716fccf26ea4a9f4451ccf
+2ecf5d1f4cc8f45f4c1f6cbdebe2a42136467c052c18329488c5dc52c6543a39
 
-Until further notice, THIS CANARY SHOULD BE UPDATED EVERY MONTH. Under no
+Until further notice, THIS CANARY SHOULD BE UPDATED EVERY 40 DAYS. Under no
 circumstances should we let this canary go month without an update unless a
 PGP-signed message changes the schedule.
 
@@ -62,17 +62,17 @@ messages signed with the new key for at least 14 days.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmfzu/8ACgkQhqX4GReD
-5vE+qRAAjzCsJG1Krwhdcwf7AU6bDYvNIDBo3kCVRME6NEcoZ7gYMCvuvZs1UV7A
-vOrb6F6djQl+/DFJ7V2+Mh3QyL5UtVRfI575fz7hvFTvaFupm3vPbqbCUm0zctaf
-MmA8Ssd2VpyTQXEIOiQ4S4z5ldngVPCd8BBwi+LuOFPMaHsSMiDTICFpboQyN9OP
-iWBllgXiKOWBy2ewCH0kA1EpbPAy/0v5fDFxdjZHWK6hh6pJMl0fD5s31yuJqfCE
-xEA1SeE7YPuftuzXylMFyTeZRBloNK7Im8tmFa1qmm+7lFoOHMDm1YUBrllJA2qP
-jzoy10Ui4VzajfpnKWFUGT+A/8jtimxS7ytPTNvQMeKaJs3O7FEQP9qDkIX0sfjE
-Eeu1scwVfO5kyeLWVH5Qg2q151m2e4HWDax1rPwIuoZaXkF6t26Eimq+4sqeqkJI
-OanHWs4FNTRfsB85dMCzjvGg4o7z1NBa8E/Ih8EcebTra3/CjpVVUSnm2gmAPMe4
-tGn6Rx2amnCGF3n28B2vShJCeNjWZLYi5nDD2Xpan+a2OhSuteRYsHDXgyfRxiaV
-2OHxJF0dKvM8OlN/H4z2tIAAfSF9tGjpe0K4dFKfwCU3rOiaLMzEWeFMNINB1Af5
-/dmR5UaAmWnKQQ8U6BvddLEs2HFrS6HWjRxxWMQWffqeZSXydb8=
-=UBOE
+iQIzBAEBCgAdFiEEQSF5AAfOw4Di5c4DhqX4GReD5vEFAmhLNnQACgkQhqX4GReD
+5vG5AQ/8DKgSfqB228DE4X7PjnWfj9iCLrwPA9UFwAXWOD21x+0nhKyW5MeexLHZ
+uujAhcx0EOl1ocKyXTFbtXP8nH4o7VoXuy7NvGLmtdo8cQ54+O3YPX2sqRL/qqX+
+cIFunK33kUxkFYLHp7NdKp3DqVnVZPGQEfDIsEN50PDDj3clbCicsYTcmJi38Dl+
+PRl1sPANkwN0tx6LoElCLZWzG046aGg2Dwa6nkpgjQWICuxzpuivUU+kFz+k480A
+zyEpr6VUhI0rty4EPDJWejcYnPaBp+fdYWO5jJvBN4zS6GDNz3gSuL6TOqM/fMj5
+OmwHxKxDSm9t8KICVAnm014BrUWztTd3Axn/rB/yHil/UsRNZYNs5N9VKND5qJyX
+kiykknyHbHzF6JnJQGYliMFc5aXQdfgbNpYj8+00lc5o7y79MsQKhbJj2IuL2+22
+2ZWU0Ev6BqgdcEBJW8xT4DtrlRWqpD94JYa2ncNvNOXCszxF92eLX28TVjEMVOlk
+2qlrgBmkdr0AsjlNK0FEO7WE5CVG6ZKC6LeW4HEKyF7AQNBoa5e5Rs0+rXc/iuId
+qGZu2+U8fDPywYepxJPW1B+cVMvh1aIOwXDl97thy4URmmtEXa7Fr/yNTw55ZCGo
+1jTaWJpbqmM47ARjdFY5+YMc4eHBGp1RqBnCL8r9JXDRv8yfMlE=
+=vdT5
 -----END PGP SIGNATURE-----
