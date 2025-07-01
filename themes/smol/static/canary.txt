@@ -44,9 +44,9 @@ long as they are true.
 ***
 
 The current datetime:
-2025.06.12 / 22:19:27 / CET
+2025.07.01 / 09:24:48 / CET
 The most recent Monero block hash:
-2ecf5d1f4cc8f45f4c1f6cbdebe2a42136467c052c18329488c5dc52c6543a39
+379a9c2b4913aa6c00af2628293e08ced3563b6159117ddba8171eb2da8d37d3
 
 Until further notice, THIS CANARY SHOULD BE UPDATED EVERY 40 DAYS. Under no
 circumstances should we let this canary go month without an update unless a
